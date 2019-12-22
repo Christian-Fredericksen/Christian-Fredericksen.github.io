@@ -1,11 +1,11 @@
 # Site settings
 author: Christian Fredericksen
-title: 
+title: Pivot 
 header-img: img/home-bg.png
 email: christian.fredericksen@yahoo.com
 copyright_name: Christian Fredericksen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code and Change Careers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Christian-Fredericksen
