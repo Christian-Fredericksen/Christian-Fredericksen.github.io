@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Go get it, boy! The Fetch Request"
-date:       2020-10-23 21:34:53 +0000
+date:       2020-10-23 17:34:54 -0400
 permalink:  go_get_it_boy_the_fetch_request
 ---
 
