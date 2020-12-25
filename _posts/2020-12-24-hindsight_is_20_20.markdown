@@ -1,0 +1,80 @@
+---
+layout: post
+title:      "Hindsight Is 20/20"
+date:       2020-12-25 00:07:20 +0000
+permalink:  hindsight_is_20_20
+---
+
+
+So, here I am at the end of my formal Flatiron training. This is the final blog for the course. Let me tell you this journey has been a roller coaster of emotions. Excitement and boredom, expectantcy and amazement, confusion and clarity, frustration and elation, conquest and defeat.
+
+All of this is a shared responsibility between myself and Flatiron School.  I will attempt to explain what I mean by that.
+
+At the very beginning of this experience I had no idea what I was really getting into.  Sure, I knew that I was going to learn how to code. I was going to learn a few different programming languages. And I would, in the end, know how to build a website from scratch. Beyond that...no clue.
+
+ A lot of what I am going to say was said to me in the beginning. It was probably said to you as well. For me, understanding what it all means was a long time comming. Hopefully I can help you see things as they unfold instead of putting it all together as late as I did.
+ 
+ Let's start with: 'This is just like learning a foreign language.'
+ 
+ It is.
+ 
+ Are you bi- or multi-lingual? Then you will probably have an easier time learning this than I did. You understand the difficulty of learning a foreign language. You understand how to learn it, what to study, how to build on what you know. If you're an accademic, you know. I fell into neither catagory. And if that's you, listen up.
+ 
+ If learning to code IS your second language you would do really well to try and remember all the way back to kindergarten, or first grade when you started learning the alphabet. The teacher would say, "Okay, class this is the letter 'A'."  And the first time, the first hundred times, the letter 'A' had no meaning. It was a shape. You learned the letters 'B' through 'Z' as well. We would practice writing our letters by tracing over them with aids like this:
+ 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F374572893998047427%2F&psig=AOvVaw10npe35_S0jhNkr6e0joSn&ust=1608933898485000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPih__3P5-0CFQAAAAAdAAAAABAE)
+
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F374572893998047427%2F&psig=AOvVaw10npe35_S0jhNkr6e0joSn&ust=1608933898485000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPih__3P5-0CFQAAAAAdAAAAABAE]
+
+(I hope one of those ^ translates here)
+
+And eventually we learned how to identify each uppercase and lowercase letter. We learned what uppercase and lowercase meant. We learned what sound each letter makes. We learned that when you put letters together they make different sounds. Eventually words, sentences, proper sentence structure, punctuation and so on. Our native language was so much more than just the expression of thought through vocal sounds. 
+
+And even when we are young and fresh and our minds are absorbing everyting like a sponge, learning our own languge was hard. I still cant explain what a predicate or a dangling participle is. Now, I am almost 50 yrs old and the learning machine is not as well oiled as it once was. And I am, we are, trying to communitcate in a whole new way. And not with another human being but with a machine. And this machine does not speak English, or Spanish, or Russian, Chinese, Farsi..in fact it isn't even a human language. And there are no sounds except for the ones we make when things get tough.
+
+So approching learning to code like this will help you a lot. You will learn things in the beginning that are 100% foreign to you. Command Line Interface, database (do you really know what that is?), variable, hash, array, truthy, falsey, API, data types, and a bazillion other words, phrases, concepts, methods, practices, etc. And just like learning to read, write, and speak a new language properly there are rules to follow and at the same time you can do whatever you want.
+
+For example:
+
+"This ain't gonna F$&@!#G work!"
+"This is not going to work."
+"The way this has been designed is flawed and execution will malfunction."
+
+Three different ways to express one idea. And each one with certain rules at play.
+
+This is coding.
+
+And you may write something like:
+
+"Here flawed the thing was built, and malfunction works makes it not."
+
+Kind of the same idea but so not the correct way to express it.
+
+This is coding.
+
+Now that I have completely intimmidated you, let me help.
+
+First thing is first. You were probably told that this program will take 25 hours a week. Or 40 hrs a week. Those are extremely optimistic estimates in my opinion. You will spend much more than that just trying to get the curriculum accomplished. Beyond that, you have meetings, groups, lectures, videos, clubs, and counciling that I cannot stress enough to NOT SQUANDER. 
+
+You will be given a certain nuber of lessons to complete each day. This should not be viewed as, "I gotta get this done today" and just breeze through the lesson so you can check it off your list. You might have other things you need or want to do, but your priority is to make sure you comprehend what you are learning. Sometimes, very often actually, you will have to make a choice. Do I go "take care of things" or do I make learning my priority? It seems like an easy answer until the real world comes knocking. It is easy to get distracted especially when learning gets hard. So always make comprehension your priority.
+
+You will be given many many tools to use during your education. Meetings, groups, lectures, videos, clubs, counciling, etc. You may be inclined to think these are just extra in case you want to check them out.  WRONG!  These all very important. The more you miss - the more you miss. Do not be shy. Everyone is here for the same reasons - to learn and help each other learn. So, make friends. At some point you will be expected to work on things as a group or a pair. The sooner you make friends the easier working with your fellow students will be.
+
+Do not let your imagination get ahead of your learning. Everything I learned I thought, "Okay, I get it. Im ready to build the thing in my mind." I would drift and imagine what I could do with the thing I just learned. And I would miss how this thing connects to the last thing and the thing before that. That makes learning hard. So stay focused in every moment so that as much as possible can sink in.
+
+Ask questions. Ask every question. Do you feel like it might be a stupid question? Too bad, ask it anyway. If you do not, you will most likely not get the answer. And no answer means no code. You might feel dumb for asking that question today, but not as dumb as you'll feel when you give in and ask this question 6 weeks from now.
+
+I cannot stress enough that it gets harder as you go further. But at the same time it gets easier. Harder because an essay is just more complex than the ABC's. You get it? But if you stay focused on the small lessons in the beginning, and you get those, the more difficult areas will be less challenging.
+
+An example would be a database of information. Let's say you have a list of contacts. Each contact has a first and last name, an address, a phone number, and email, an occupation, maybe even a relationship to you (friend, aunt, cousin). If you want to see all that information you could simply ask for it. But what if you only wanted to see the contacts that have the same occupation, or share a relationship like all your cousins. You will learn how to write code to get that data. But as you get further into the program you will learn a more compact way of doing the same thing. Then when you learn the more complex concept of connecting that database to the controllers it won't be too hard to understand becuase you know how the database works. Every little thing you learn connects to the next. And most times it is not very clear that's what's happening. Stay focused. It is very easy to forget what you studied today if you don't make the connection to the thing you studied yesterday.
+
+When it come to project time the rules for success are simple. 
+**MEET THE REQUIREMENTS** 
+
+You will be tempted to make your project bigger and more impressive than is required. Don't make that your goal. Meet the req's first. If you have time then go get fancy. If you try for fancy right away you risk stumbling and coding yourself into a corner. Your instructor WILL BE MOSTLY HANDS OFF DURING PROJECT MODE. So, no unnecessary swinging for the bleachers.
+
+I made this program more difficult than it needed to be. Don't make the same mistakes.
+
+Code your imagination to life.
+
+
